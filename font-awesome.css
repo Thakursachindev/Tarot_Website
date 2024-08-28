@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/fontawesome-webfont.woff2?v=5.15.3') format('woff2'),
+         url('fonts/fontawesome-webfont.woff?v=5.15.3') format('woff'),
+         url('fonts/fontawesome-webfont.ttf?v=5.15.3') format('truetype');
+  }
+  
+  .fa {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400;
+  }
+  
+  .fa-fw {
+    width: 1.25em;
+    text-align: center;
+  }
+  
+  .fa-lg {
+    font-size: 1.33333333em;
+    line-height: 0.75em;
+    vertical-align: -15%;
+  }
+  
+  .fa-xs {
+    font-size: 0.75em;
+  }
+  
+  .fa-sm {
+    font-size: 0;
+  }
